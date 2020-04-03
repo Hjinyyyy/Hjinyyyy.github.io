@@ -97,8 +97,8 @@ Below are some properties you can change in your project `_config.yml`, check th
 
 ```
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: H_jiny
+title: H_jiny's portfolio
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -106,7 +106,7 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: hwalan0411@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
