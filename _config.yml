@@ -16,7 +16,7 @@ menu:
     url: /
   - title: About
     url: /about
-    title: Portfolio
+  - title: Portfolio
     url: /portfolio
   - title: Contact
     url: /contact
