@@ -16,10 +16,10 @@ menu:
     url: /
   - title: About
     url: /about
+    title: Portfolio
+    url: /portfolio
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 
 
 # Social Media Settings
