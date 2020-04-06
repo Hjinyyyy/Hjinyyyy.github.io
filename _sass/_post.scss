@@ -32,6 +32,7 @@
 .post-content {
   overflow-x: auto;
   padding: rem(40px) 0;
+  text-align: center;
 
   &.fullwidth {
     padding: rem(60px) rem(10px) 0;
@@ -115,6 +116,7 @@
     letter-spacing: 0;
     color: darken($lightGray, 30%);
     margin: 0 auto;
+    text-align: left;
 
     @include media(">=sm") {
       font-size: rem(15px);
@@ -432,7 +434,7 @@
 
 .time-bar {
   display: none;
-  
+
   // position: fixed;
   // left: 0;
   // right: 0;
