@@ -17,10 +17,10 @@ tags:
 author: thiagorossener
 paginate: true
 ---
-[PC version]`<strong>`
+<strong>[PC version]</strong>
 
 ![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177020/home_rwd-400x868_pwyilk.png "Wordpress Individual Site Mobile image")
-[Mobile version]`<strong>`
+<strong>[Mobile version]</strong>
 
 #### Idividual Website
 
