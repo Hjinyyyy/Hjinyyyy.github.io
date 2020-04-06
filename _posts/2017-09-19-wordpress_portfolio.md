@@ -6,7 +6,7 @@ subtitle: "Wordpress Individual Homepage"
 description: >-
   
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme5_wmutla.jpg
+  https://res.cloudinary.com/dfnrzktmy/image/upload/v1586169667/home_sum-400x260_ro1kh5.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme5_wmutla.jpg
 category: portfolio
