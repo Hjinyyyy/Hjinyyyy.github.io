@@ -431,59 +431,61 @@
 /* Time bar */
 
 .time-bar {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: -100%;
-  display: block;
-  width: 100%;
-  padding: rem(10px) rem(20px) rem(5px);
-  transition: bottom 0.5s;
-  background-color: rgba(0, 0, 0, 0.85);
+  display: none;
+  
+  // position: fixed;
+  // left: 0;
+  // right: 0;
+  // bottom: -100%;
+  // display: block;
+  // width: 100%;
+  // padding: rem(10px) rem(20px) rem(5px);
+  // transition: bottom 0.5s;
+  // background-color: rgba(0, 0, 0, 0.85);
 
-  @include media(">=sm") {
-    padding: rem(16px) rem(20px) rem(9px);
-  }
+  // @include media(">=sm") {
+  //   padding: rem(16px) rem(20px) rem(9px);
+  // }
 
-  .bar {
-    display: block;
-    width: 100%;
-    padding: rem(8px) rem(60px);
-    &:after {
-      clear: both;
-      display: block;
-      content: "";
-    }
-  }
+  // .bar {
+  //   display: block;
+  //   width: 100%;
+  //   padding: rem(8px) rem(60px);
+  //   &:after {
+  //     clear: both;
+  //     display: block;
+  //     content: "";
+  //   }
+  // }
 
-  .completed {
-    float: left;
-    display: block;
-    height: rem(5px);
-    background-color: $themeColor;
-  }
+  // .completed {
+  //   float: left;
+  //   display: block;
+  //   height: rem(5px);
+  //   background-color: $themeColor;
+  // }
 
-  .remaining {
-    float: left;
-    display: block;
-    height: rem(5px);
-    background-color: #ccc;
-  }
+  // .remaining {
+  //   float: left;
+  //   display: block;
+  //   height: rem(5px);
+  //   background-color: #ccc;
+  // }
 
-  .time-completed,
-  .time-remaining {
-    @include mainFont(400);
-    font-size: rem(18px);
-    color: #fff;
-  }
+  // .time-completed,
+  // .time-remaining {
+  //   @include mainFont(400);
+  //   font-size: rem(18px);
+  //   color: #fff;
+  // }
 
-  .time-completed {
-    float: left;
-  }
+  // .time-completed {
+  //   float: left;
+  // }
 
-  .time-remaining {
-    float: right;
-  }
+  // .time-remaining {
+  //   float: right;
+  // }
 }
 
 /* Recommendation */
