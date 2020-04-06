@@ -168,11 +168,15 @@
   }
 
   a {
-    //color: $themeColor;
+    color: #333;
     text-decoration: none;
 
     &:hover {
       color: #a9a9a9;
+
+      img.site_icon{
+        opacity: .5;
+      }
     }
 
     img.site_icon{
