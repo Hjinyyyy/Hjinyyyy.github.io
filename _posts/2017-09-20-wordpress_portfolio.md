@@ -30,7 +30,7 @@ Design: 0%, Publishing: 70%, Java Script: 0%
 
 – WordPress [테마:Elegant]
 
-<a href="http://hwalan0411.dothome.co.kr/" target="_blank" class="site_icon">
-<img src="https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177444/com_icon-150x129_r9kppl.png" alt="com_icon">
+<a href="http://hwalan0411.dothome.co.kr/" target="_blank">
+<img src="https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177444/com_icon-150x129_r9kppl.png" alt="com_icon" class="site_icon">
 [Website]
 </a>

@@ -168,11 +168,15 @@
   }
 
   a {
-    color: $themeColor;
+    //color: $themeColor;
     text-decoration: none;
 
     &:hover {
       color: #a9a9a9;
+    }
+
+    img.site_icon{
+      width: 60px;
     }
   }
 
