@@ -6,7 +6,7 @@ subtitle: "Wordpress Individual Homepage"
 description: >-
   
 image: >-
-  https://res.cloudinary.com/dfnrzktmy/image/upload/v1586169667/home_sum-400x260_ro1kh5.jpg
+  https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177021/home-734x1024_irijfl.png
 optimized_image: >-
   https://res.cloudinary.com/dfnrzktmy/image/upload/v1586169667/home_sum-400x260_ro1kh5.jpg
 category: portfolio
@@ -17,7 +17,6 @@ tags:
 author: thiagorossener
 paginate: true
 ---
-![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177021/home-734x1024_irijfl.png "Wordpress Individual Site Pc image")
 #### [PC version]
 
 ![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177020/home_rwd-400x868_pwyilk.png "Wordpress Individual Site Mobile image")
