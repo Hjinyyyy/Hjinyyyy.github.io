@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 description: Some description.
-permalink: /portfolio/
+permalink: /portfolio-1/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
