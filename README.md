@@ -114,10 +114,10 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Portfolio
+    url: /portfolio
   - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+    url: /contact  
 
 # Social Media Settings
 # Remove the item if you don't need it
