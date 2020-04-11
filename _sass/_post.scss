@@ -177,9 +177,17 @@
       img.site_icon{
         opacity: .5;
       }
+
+      img.ppt_icon{
+        opacity: .5;
+      }
     }
 
     img.site_icon{
+      width: 60px;
+    }
+
+    img.ppt_icon{
       width: 60px;
     }
   }
