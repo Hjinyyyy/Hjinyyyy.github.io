@@ -2,7 +2,7 @@
 date: 2017-09-20
 layout: post
 title: "Wordpress Individual"
-subtitle: "Wordpress Individual Homepage"
+subtitle: "개인용 홈페이지"
 description: >-
   
 image: >-
