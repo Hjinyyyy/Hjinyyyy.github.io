@@ -54,14 +54,14 @@ footer {
   }
 
   a {
-    display: inline-block;
-    fill: #808080;
+    display: inline-block;    
     transition: all 0.3s ease;
     text-decoration: none;
     color: #808080;
+    font-weight: bold;
     
     &:hover {
-      fill: $themeColor;
+      color: $themeColor;
     }
     
     &.creator:hover {
