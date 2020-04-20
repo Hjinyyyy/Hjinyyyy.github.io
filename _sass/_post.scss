@@ -25,14 +25,14 @@
     @include media(">=sm") {
       flex-basis: 70%;
       padding: 0 rem(30px) 0 rem(10px);
+      text-align: center;
     }
   }
 }
 
 .post-content {
   overflow-x: auto;
-  padding: rem(40px) 0;
-  text-align: center;
+  padding: rem(40px) 0;  
 
   &.fullwidth {
     padding: rem(60px) rem(10px) 0;
