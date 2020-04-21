@@ -22,7 +22,7 @@ paginate: true
 ![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177020/home_rwd-400x868_pwyilk.png "Wordpress Individual Site Mobile image")
 <strong>[Mobile version]</strong>
 
-#### Idividual Website
+### Idividual Website
 
 ### 개인용 홈페이지 (반응형)
 

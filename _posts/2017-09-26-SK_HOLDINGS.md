@@ -21,7 +21,7 @@ paginate: true
 ![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1586169668/sk_rwd-400x749_zw4ctm.jpg "SK HOLDINGS Mobile image")
 <strong>[Mobile version]</strong>
 
-#### SK HOLDINGS
+### SK HOLDINGS
 
 ### SK주식회사 홀딩스 (반응형)
 
