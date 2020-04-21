@@ -51,18 +51,7 @@ footer {
       margin-left: rem(3px);
       margin-right: rem(3px);
     }
-  }
-
-  img{
-    @include size(28, 28);
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: rem(10px);
-
-    @include media(">=sm") {
-      margin-right: rem(20px);
-    }
-  }
+  } 
 
   a {
     display: inline-block;    
