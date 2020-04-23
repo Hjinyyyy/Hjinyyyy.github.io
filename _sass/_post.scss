@@ -736,17 +736,15 @@
 
 .post-content {
   .page {
-    ul {
-      padding-left: 1.5rem;      
-      margin: rem(20px) auto 0;
-
-      @include media(">=sm") {
-        margin: rem(29px) auto 0;
-      } 
+    h2 {
+      text-align: center;
+    }
+    ul {      
       li {
         padding: 0;
-        ul {
+        ul {          
           margin: 0 auto;
+          padding-left: 1.5rem;  
         }
       }  
     }
