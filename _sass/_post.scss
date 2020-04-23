@@ -731,3 +731,27 @@
     }
   }
 }
+
+/* page */
+
+.post-content {
+  .page {
+    ul {
+      padding-left: 1.5rem;      
+      margin: rem(20px) auto 0;
+
+      @include media(">=sm") {
+        margin: rem(29px) auto 0;
+      } 
+      li {
+        ul {
+          margin: 0 auto;
+
+          @include media(">=sm") {
+            margin: 0 auto;
+          } 
+        }
+      }  
+    }
+  }
+}
