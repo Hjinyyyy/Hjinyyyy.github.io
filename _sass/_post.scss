@@ -744,12 +744,9 @@
         margin: rem(29px) auto 0;
       } 
       li {
+        padding: 0;
         ul {
           margin: 0 auto;
-
-          @include media(">=sm") {
-            margin: 0 auto;
-          } 
         }
       }  
     }
