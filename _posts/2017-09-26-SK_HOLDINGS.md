@@ -3,7 +3,7 @@ date: 2017-09-26
 layout: post
 title: "SK HOLDINGS"
 subtitle: "SK주식회사 홀딩스"
-description: >-
+description: "SK주식회사 홀딩스"
   
 image: >-
   https://res.cloudinary.com/dfnrzktmy/image/upload/v1586169668/sk-768x580_ntuvpf.jpg

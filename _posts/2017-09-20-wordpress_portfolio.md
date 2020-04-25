@@ -3,7 +3,7 @@ date: 2017-09-20
 layout: post
 title: "Wordpress Individual"
 subtitle: "개인용 홈페이지"
-description: >-
+description: "Wordpress 개인용 홈페이지"
   
 image: >-
   https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177021/home-734x1024_irijfl.png
