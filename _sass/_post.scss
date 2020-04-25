@@ -753,15 +753,27 @@
       color: #333;
     }
     .box-item {
+      &:hover{
+        transform: inherit;
+      }
       .box-body {
         h2{
           color: #333;
+          padding: 0;
         }
         .tags{
+          margin: 0;
           a{
             color: #333;
             border: 1px solid #333;
           }
+        }
+        .post-link{
+          text-align: center;
+        }
+        .description{
+          margin: 0;
+          padding: 0;
         }
       }
     }
