@@ -19,14 +19,14 @@ layout: page
   <h2>{{ site.translations.contact.title | default: "Portfolio" }}</h2>
 
 <!-- Posts -->
-<section id="grid" class="row flex-grid">
+<div id="grid" class="row flex-grid">
     {% for post in posts offset: offset %}
-        <article class="box-item">
-            <span class="category">
+        <div class="box-item">
+            <p class="category">
                 <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
                     <span>{{ post.category }}</span>
                 </a>
-            </span>
+            </p>
             <div class="box-body">
                 <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                     {% include loader.html %}
@@ -70,9 +70,9 @@ layout: page
                     </div>
                 </div>
             </div>
-        </article>
+        </div>
     {% endfor %}
-</section>
+</div>
 <!-- Pagination -->
 {% if site.paginate %}
     {% include pagination-home.html %}
