@@ -748,5 +748,22 @@
         }
       }  
     }
+    .box-item:hover .box-body time, 
+    .box-item:hover .box-body p{
+      color: #333;
+    }
+    .box-item {
+      .box-body {
+        h2{
+          color: #333;
+        }
+        .tags{
+          a{
+            color: #333;
+            border: 1px solid #333;
+          }
+        }
+      }
+    }
   }
 }
