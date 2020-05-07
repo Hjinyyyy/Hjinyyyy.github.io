@@ -8,6 +8,7 @@ description: "GitBlog 개인용 홈페이지"
 image: >-
   https://res.cloudinary.com/dfnrzktmy/image/upload/v1585903378/slides-02_vythbe.jpg
 optimized_image: >-  
+  https://res.cloudinary.com/dfnrzktmy/image/upload/v1588869996/gitblog_sum-400x260_ese54n.png
 category: portfolio
 tags: 
   - Individual
