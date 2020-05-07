@@ -27,8 +27,6 @@ paginate: true
 
 Design: 0%, Publishing: 100%, Java Script: 50%
 
-– WordPress [테마:Elegant]
-
 <a href="http://hwalan0411.dothome.co.kr/portfolio-item/sk/" target="_blank">
 <img src="https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177444/com_icon-150x129_r9kppl.png" alt="com_icon" class="site_icon">
 [Website]
