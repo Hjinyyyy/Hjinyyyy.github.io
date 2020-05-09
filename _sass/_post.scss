@@ -781,7 +781,7 @@
       dt{
         position: relative;
         &:before{
-          content: "&#9726;";
+          content: "◼";
           position: absolute;
           left: -10px;
         }
@@ -790,7 +790,7 @@
         position: relative;
         margin-left: 20px;
         &:before{
-          content: "&#9725;";
+          content: "◻";
           position: absolute;
           left: -10px;
         }
