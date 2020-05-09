@@ -777,5 +777,18 @@
         }
       }
     }
+    .project{
+      dt{
+        position: relative;
+        &:before{
+          content: "-";
+          position: absolute;
+          left: -10px;
+        }
+      }
+      dd{
+        margin-left: 10px;
+      }
+    }
   }
 }
