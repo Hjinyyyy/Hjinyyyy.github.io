@@ -781,13 +781,22 @@
       dt{
         position: relative;
         &:before{
-          content: "-";
+          content: "&#9726;";
           position: absolute;
           left: -10px;
         }
       }
       dd{
-        margin-left: 10px;
+        position: relative;
+        margin-left: 20px;
+        &:before{
+          content: "&#9725;";
+          position: absolute;
+          left: -10px;
+        }
+        span{
+          display: block;
+        }
       }
     }
   }
