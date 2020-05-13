@@ -777,7 +777,10 @@
         }
       }
     }
-    .project{    
+    .project{  
+      .team{
+        font-weight: bold;
+      }  
       dt{
         position: relative;
         &:before{
@@ -798,9 +801,6 @@
           display: block;
         }
       }
-    }
-    .department{
-      font-weight: bold;
-    }
+    }    
   }
 }
