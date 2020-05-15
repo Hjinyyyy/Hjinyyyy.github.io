@@ -777,10 +777,18 @@
         }
       }
     }
-    .subject{
-      font-weight: bold;
+    .date{
+      margin-left: 10px;
     }
-    .agency{
+    .subject, 
+    .company{
+      font-weight: bold;
+      @include media(">=sm") {
+        display: block;
+      }
+    }
+    .agency,
+    .department{
       font-size: rem(12px);
     }
     .project{  
