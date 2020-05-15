@@ -1,5 +1,5 @@
 ---
-date: 2017-09-20
+date: 2017-11-20
 layout: post
 title: "Wordpress Individual"
 subtitle: "개인용 홈페이지"
