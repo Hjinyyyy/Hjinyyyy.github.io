@@ -783,7 +783,7 @@
     .subject, 
     .company{
       font-weight: bold;
-      @include media(">=sm") {
+      @include media("<=sm") {
         display: block;
       }
     }
