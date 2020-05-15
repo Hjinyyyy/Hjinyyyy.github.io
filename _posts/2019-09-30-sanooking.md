@@ -25,7 +25,7 @@ paginate: true
 
 ### 태국향 mypage (반응형)
 
-Design: 0%, Publishing: 30%, Java Script: 10%
+Design: 0%, Publishing: 40%, Java Script: 0%
 
 <a href="https://www.sanooking.com/mypage/MyHome" target="_blank">
 <img src="https://res.cloudinary.com/dfnrzktmy/image/upload/v1586177444/com_icon-150x129_r9kppl.png" alt="com_icon" class="site_icon">
