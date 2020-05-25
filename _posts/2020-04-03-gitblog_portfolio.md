@@ -6,7 +6,7 @@ subtitle: "개인용 홈페이지"
 description: "GitBlog 개인용 홈페이지"
   
 image: >-
-  https://res.cloudinary.com/dfnrzktmy/image/upload/v1585903378/slides-02_vythbe.jpg
+  https://res.cloudinary.com/dfnrzktmy/image/upload/v1590423610/gitblog-768x1517_u9mwoe.png
 optimized_image: >-  
   https://res.cloudinary.com/dfnrzktmy/image/upload/v1588869996/gitblog_sum-400x260_ese54n.png
 category: portfolio
@@ -19,7 +19,7 @@ paginate: true
 ---
 <strong>[PC version]</strong>
 
-![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1586169668/sk_rwd-400x749_zw4ctm.jpg "Mobile image")
+![placeholder](https://res.cloudinary.com/dfnrzktmy/image/upload/v1590423609/gitblog_rwd-400x866_krfxbm.png "GitBlog Mobile image")
 <strong>[Mobile version]</strong>
 
 ### Idividual Website
