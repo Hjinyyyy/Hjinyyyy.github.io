@@ -2,8 +2,8 @@
 date: 2019-10-30
 layout: post
 title: "tqoon partner login"
-subtitle: "티쿤 이용사 관리자 로그인"
-description: "티쿤 이용사 관리자 로그인"
+subtitle: "티쿤 파트너사 관리자 로그인"
+description: "티쿤 파트너사 관리자 로그인"
   
 image: >-
   https://res.cloudinary.com/dfnrzktmy/image/upload/v1589550332/partner-login-400x799_wc60lt.png
@@ -23,7 +23,7 @@ paginate: true
 
 ### tqoon partner login
 
-### 티쿤 이용사 관리자 로그인 리뉴얼 (반응형)
+### 티쿤 파트너사 관리자 로그인 리뉴얼 (반응형)
 
 Design: 0%, Publishing: 100%, Java Script: 100%
 
