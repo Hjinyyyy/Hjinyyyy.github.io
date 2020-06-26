@@ -1,10 +1,10 @@
 ---
 layout: page
-menu: false
-date: '2020-02-27 01:53:59'
-title: About
-permalink: /about-2/
-description: Some description.
+menu: true
+date: '2020-06-26'
+title: Clean Code
+permalink: /clean_code/
+description: Clean Code.
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
