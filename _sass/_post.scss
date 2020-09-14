@@ -181,6 +181,9 @@
       img.ppt_icon{
         opacity: .5;
       }
+      img.mobile_icon{
+        opacity: .5;
+      }
     }
 
     img.site_icon{
@@ -188,6 +191,10 @@
     }
 
     img.ppt_icon{
+      width: 50px;
+    }
+
+    img.mobile_icon{
       width: 50px;
     }
   }
